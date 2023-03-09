@@ -3,7 +3,7 @@
 [![MIT](https://img.shields.io/badge/License-MIT-blue.svg?maxAge=259200)](https://github.com/msx752/PackZero.HostedConsoleService/blob/main/LICENSE.md)
 
 # PackZero.HostedConsoleService
-Single Response Model for the ActionResult
+Extension that is easy way to managing .NET ConsoleApp
 
 
 # How to Use
